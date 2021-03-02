@@ -22,5 +22,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 
 <br>
-
-Feito com ♥ by [Rocketseat](https://rocketseat.com.br) :wave:
